@@ -1,0 +1,36 @@
+
+
+.titulo{
+    font-style:oblique;
+}
+
+.div-img{
+    display: flex;
+    justify-content: center;
+}
+
+.links{
+   text-decoration: none; 
+}
+
+.div-img2{
+    max-width: 100%;
+    display: flex;
+    justify-content:space-around;
+    flex-wrap: wrap;
+}
+
+.img-moises{
+    width: 80%;
+    margin-top: 10px;
+    border-radius: 10px;
+    border: 5px solid red;
+    
+}
+
+.img-moises2{
+    width: 30%;
+    margin-top: 10px;
+    border-radius: 10px;
+    border: 5px solid red;
+}
